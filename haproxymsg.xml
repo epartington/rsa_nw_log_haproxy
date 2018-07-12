@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEVICEMESSAGES
+	 name="haproxy"
+	 displayname="haproxy"
+	 group="Application Firewall"
+	 type="7104">
+<VERSION
+	 xml="1"
+	 revision="1"
+	 device="2.0"/>
+<TAGVALMAP/>
+<HEADER
+	 id1="HDR2"
+	 id2="HDR2"
+	 content="&lt;hmonth&gt;&lt;hdate&gt;&lt;htime&gt;&lt;device.host&gt; &lt;messageid&gt;[&lt;fld1&gt;]:&lt;!payload&gt;"/>
+<MESSAGE
+	 id1="haproxy"
+	 id2="haproxy"
+	 eventcategory="1.204e+9"
+	 content="&lt;saddr&gt;:&lt;sport&gt; [&lt;event_time&gt;] &lt;fld2&gt;&lt;fld31&gt;/&lt;dhost&gt;&lt;fld21&gt;/&lt;fld22&gt;/&lt;fld23&gt;&lt;fld4&gt;&lt;fld5&gt;&lt;fld61&gt;/&lt;fld62&gt;/&lt;fld63&gt;/&lt;fld63&gt;/&lt;fld67&gt;&lt;fld71&gt;/&lt;fld72&gt;"/>
+</DEVICEMESSAGES>
